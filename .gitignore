@@ -1,3 +1,4 @@
 __pycache__
-venv
-.gitignore
+venv    
+credentials.json
+token.json 
